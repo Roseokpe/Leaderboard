@@ -7,7 +7,7 @@ body {
 
 header {
   text-decoration: none;
- }
+}
 
 main {
   display: flex;
@@ -22,9 +22,9 @@ main {
   padding-bottom: 10px;
 }
 
-.score-table ul li:nth-child(even) {
+/* .score-table ul li:nth-child(even) {
   background-color: #ddd;
-}
+} */
 
 form {
   display: flex;
