@@ -7,8 +7,7 @@ body {
 
 header {
   text-decoration: none;
-  text-align: center;
-}
+ }
 
 main {
   display: flex;
@@ -17,11 +16,14 @@ main {
   padding-top: 50px;
 }
 
-.recent-score ul li {
+.score-table ul li {
   list-style: none;
-  padding: 5px 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.score-table ul li:nth-child(even) {
+  background-color: #ddd;
 }
 
 form {
@@ -30,8 +32,9 @@ form {
   gap: 20px;
 }
 
-.scores-table {
+.score-table {
   border: 2px solid rgb(101, 100, 100);
+  width: 280px;
 }
 
 .re-set {
