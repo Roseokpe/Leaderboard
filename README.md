@@ -2,7 +2,7 @@
 
 # Leaderboard
 
-> In this milestone,I set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I Developed a first working version of the app following a wireframe, but without styling - just focus on functionality.
+> In this milestone, I implemented the Leaderboard list app, sending and receiving data from/to the Leaderboard API.
 
 
 ## Getting Started
