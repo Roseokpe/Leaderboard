@@ -4,6 +4,8 @@
 
 > In this milestone, I implemented the Leaderboard list app, sending and receiving data from/to the Leaderboard API.
 
+## LIVE DEMO
+[LIVE DEMO](https://epl-leaderboard.netlify.app/)
 
 ## Getting Started
 
